@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Handoesk's Introduction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #0073e6;
+        }
+        p {
+            font-size: 1.2em;
+            line-height: 1.6;
+        }
+        .social {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .social a {
+            text-decoration: none;
+            color: #0073e6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>👋 Hi, I’m @Handoesk</h1>
+        <p>👀 I’m interested in data analyst and cybersecurity</p>
+        <p>🌱 I’m currently learning mathematics</p>
+        <p>💞️ I’m looking to collaborate on ...</p>
+        <p>📫 How to reach me: you can DM me on Instagram <a href="https://www.instagram.com/feelgutsz" target="_blank">@feelgutsz</a></p>
+    </div>
+</body>
+</html>
